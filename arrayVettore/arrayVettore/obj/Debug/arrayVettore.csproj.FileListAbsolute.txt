@@ -5,3 +5,10 @@ C:\Users\Michele\source\repos\arrayVettore\arrayVettore\obj\Debug\arrayVettore.c
 C:\Users\Michele\source\repos\arrayVettore\arrayVettore\obj\Debug\arrayVettore.csproj.CoreCompileInputs.cache
 C:\Users\Michele\source\repos\arrayVettore\arrayVettore\obj\Debug\arrayVettore.exe
 C:\Users\Michele\source\repos\arrayVettore\arrayVettore\obj\Debug\arrayVettore.pdb
+C:\Users\Michele\Desktop\ProgettoTPS\arrayVettore\arrayVettore\bin\Debug\arrayVettore.exe.config
+C:\Users\Michele\Desktop\ProgettoTPS\arrayVettore\arrayVettore\bin\Debug\arrayVettore.exe
+C:\Users\Michele\Desktop\ProgettoTPS\arrayVettore\arrayVettore\bin\Debug\arrayVettore.pdb
+C:\Users\Michele\Desktop\ProgettoTPS\arrayVettore\arrayVettore\obj\Debug\arrayVettore.csprojAssemblyReference.cache
+C:\Users\Michele\Desktop\ProgettoTPS\arrayVettore\arrayVettore\obj\Debug\arrayVettore.csproj.CoreCompileInputs.cache
+C:\Users\Michele\Desktop\ProgettoTPS\arrayVettore\arrayVettore\obj\Debug\arrayVettore.exe
+C:\Users\Michele\Desktop\ProgettoTPS\arrayVettore\arrayVettore\obj\Debug\arrayVettore.pdb
